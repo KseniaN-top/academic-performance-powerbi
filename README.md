@@ -65,7 +65,7 @@ Advanced time-based analysis:
 
 | File | Description |
 |---|---|
-| `HW_PowerBi_Nahorna3.pbix` | Power BI report file — open in Power BI Desktop |
+| `PowerBi_Project.pbix` | Power BI report file — open in Power BI Desktop |
 
 ---
 
